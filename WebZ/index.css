@@ -71,3 +71,35 @@ body {
 
 }
 
+.nav-links a:hover::after {
+
+    width: 100%;
+
+}
+  
+.nav-links a:hover {
+
+    color: #fef08a;
+
+}
+  
+.nav-btn {
+
+    padding: 10px 22px;
+    border: none;
+    background: #facc15;
+    color: #0f172a;
+    font-size: 15px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+  
+.nav-btn:hover {
+
+    background: white;
+    transform: scale(1.05);
+
+}
+
