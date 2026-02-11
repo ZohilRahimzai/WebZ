@@ -148,5 +148,25 @@ body {
 
 }
 
+.primary:hover {
+    background: #0369a1;
+  }
+  
+  .secondary {
+    padding: 14px 32px;
+    background: white;
+    color: #22c55e;
+    border: 2px solid #22c55e;
+    border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .secondary:hover {
+    background: #22c55e;
+    color: white;
+  }
+
 
 
