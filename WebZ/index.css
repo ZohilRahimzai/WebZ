@@ -103,4 +103,37 @@ body {
 
 }
 
+.hero {
+
+    text-align: center;
+    margin-top: 120px;
+    padding: 0 20px;
+
+}
+  
+.hero h1 {
+
+    font-size: 52px;
+    color: #0f172a;
+    margin-bottom: 15px;
+
+}
+  
+.hero p {
+
+    font-size: 18px;
+    color: #334155;
+    margin-bottom: 35px;
+
+}
+  
+.hero-buttons {
+
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+
 
