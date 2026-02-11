@@ -135,5 +135,18 @@ body {
 
 }
 
+.primary {
+
+    padding: 14px 32px;
+    background: #0ea5e9;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+
 
 
